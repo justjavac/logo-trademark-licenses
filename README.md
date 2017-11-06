@@ -1,6 +1,6 @@
 # Badge Store
 
-本 repo 不支持 issue 功能，如果需要申请徽章，可以直接发 pull request，并注明开源 logo 的 license。或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
+本 repo 不支持 issue 功能，如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
 
 ## License
 
@@ -10,7 +10,14 @@
 | -------- | ------------- | -------- |
 | Git      | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://git-scm.com/downloads/logos | 
 
-### 前端
+### 编程语言
+
+| Name     | License       | 参考链接  |
+| -------- | ------------- | -------- |
+| Python   | 需要得到 PSF 授权 | https://www.python.org/community/logos/ |
+| Go       | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://golang.org/doc/faq#Whats_the_origin_of_the_mascot |
+
+### 前端框架
 
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
@@ -20,7 +27,7 @@
 | Vue      | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://github.com/vuejs/art/blob/master/README.md |
 | Webpack  | [LICENSE](https://github.com/webpack/media/blob/master/LICENSE) | https://github.com/webpack/media |
 
-### PHP
+### PHP 框架
 
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
