@@ -11,7 +11,8 @@
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
 | Git      | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://git-scm.com/downloads/logos | 
-| Redis    | ??? | https://redis.io/topics/sponsors#redisio |
+| Redis    | ??? | https://redis.io/topics/sponsors#redisio |
+| Android robot | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://developer.android.com/distribute/marketing-tools/brand-guidelines.html |
 
 ### 编程语言
 
