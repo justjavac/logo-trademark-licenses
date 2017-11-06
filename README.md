@@ -11,6 +11,7 @@
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
 | Git      | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://git-scm.com/downloads/logos | 
+| Redis    | ??? | https://redis.io/topics/sponsors#redisio |
 
 ### 编程语言
 
