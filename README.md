@@ -1,1 +1,1 @@
-# badge-store
+# Badge Store
