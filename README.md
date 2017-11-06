@@ -1,8 +1,10 @@
 # Badge Store
 
-本 repo 不支持 issue 功能，如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
+如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
 
 ## License
+
+所有的徽章均需要得到授权许可。
 
 ### 工具
 
@@ -15,7 +17,8 @@
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
 | Python   | 需要得到 PSF 授权 | https://www.python.org/community/logos/ |
-| Go       | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://golang.org/doc/faq#Whats_the_origin_of_the_mascot |
+| Go       | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://golang.org/doc/faq#Whats_the_origin_of_the_mascot |
+| Lua      | [License](https://www.lua.org/images/) | https://www.lua.org/images/ |
 
 ### 前端框架
 
