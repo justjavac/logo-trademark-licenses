@@ -49,7 +49,7 @@
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
 | Spring   | ???|https://spring.io/trademarks|
-| Vert.x   | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)|https://commons.wikimedia.org/wiki/File:Vert.x_Logo.svg|
+| Vert.x   | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)|https://commons.wikimedia.org/wiki/File:Vert.x_Logo.svg|
 
 ### 编辑器和 IDE
 
