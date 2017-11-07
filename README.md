@@ -30,7 +30,7 @@
 | Babel    | [MIT](https://github.com/babel/logo/blob/master/LICENSE)  | https://github.com/babel/logo/blob/master/LICENSE |
 | React    | ??? | ??? |
 | Vue      | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://github.com/vuejs/art/blob/master/README.md |
-| Webpack  | [LICENSE](https://github.com/webpack/media/blob/master/LICENSE) | https://github.com/webpack/media |
+| Webpack  | [#2](https://github.com/justjavac/badge-store/issues/2) | https://github.com/webpack/media |
 
 ### PHP 框架
 
