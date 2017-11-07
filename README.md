@@ -1,6 +1,6 @@
 # Badge Store
 
-如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
+第一批将挑选 10 个徽章进行制作。如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
 
 ## License
 
