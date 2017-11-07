@@ -25,6 +25,7 @@
 | Go       | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://golang.org/doc/faq#Whats_the_origin_of_the_mascot |
 | Lua      | [License](https://www.lua.org/images/) | https://www.lua.org/images/ |
 | Node.js  | [#5](https://github.com/justjavac/badge-store/issues/5) | https://nodejs.org/static/documents/trademark-policy.pdf |
+| Kotlin   | [#3](https://github.com/justjavac/badge-store/issues/3) | https://github.com/JetBrains/logos/tree/master/web/kotlin |
 
 ### 前端框架
 
