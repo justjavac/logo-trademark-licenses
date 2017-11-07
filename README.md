@@ -12,6 +12,7 @@
 | -------- | ------------- | -------- |
 | Git      | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://git-scm.com/downloads/logos | 
 | Redis    | ??? | https://redis.io/topics/sponsors#redisio |
+| MongoDB  | 不能使用 | https://www.mongodb.com/legal/trademark-usage-guidelines |
 | Android robot | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://developer.android.com/distribute/marketing-tools/brand-guidelines.html |
 | Docker   | [#4](https://github.com/justjavac/badge-store/issues/4) | https://www.docker.com/brand-guidelines |
 
