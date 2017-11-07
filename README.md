@@ -38,3 +38,9 @@
 | -------- | ------------- | -------- |
 | CodeIgniter | [MIT](https://codeigniter.com/userguide3/license.html) | https://github.com/bcit-ci/ci-design/tree/master/media |
 | Laravel     | ??? | https://github.com/laravel/art |
+
+### 编辑器和 IDE
+
+| Name     | License       | 参考链接  |
+| -------- | ------------- | -------- |
+| Eclipse | [#1](https://github.com/justjavac/badge-store/issues/1) | http://www.eclipse.org/artwork/ |
