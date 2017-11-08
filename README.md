@@ -42,7 +42,7 @@
 | -------- | ------------- | -------- |
 | CodeIgniter | [MIT](https://codeigniter.com/userguide3/license.html) | https://github.com/bcit-ci/ci-design/tree/master/media |
 | Laravel     | ??? | https://github.com/laravel/art |
-| Yii         | [CC BY-ND 3.0](http://creativecommons.org/licenses/by-nd/3.0/) [#6](https://github.com/justjavac/badge-store/issues/6) | http://www.yiiframework.com/logo/ |
+| Yii         | [CC BY-ND 3.0](http://creativecommons.org/licenses/by-nd/3.0/) [#7](https://github.com/justjavac/badge-store/issues/7) | http://www.yiiframework.com/logo/ |
 
 ### 编辑器和 IDE
 
