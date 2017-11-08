@@ -36,6 +36,7 @@
 | React    | ??? | ??? |
 | Vue      | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://github.com/vuejs/art/blob/master/README.md |
 | Webpack  | [#2](https://github.com/justjavac/badge-store/issues/2) | https://github.com/webpack/media |
+| HTML5    | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://www.w3.org/html/logo/ |
 
 ### PHP 框架
 
