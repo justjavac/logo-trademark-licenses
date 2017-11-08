@@ -25,6 +25,7 @@
 | Go       | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://golang.org/doc/faq#Whats_the_origin_of_the_mascot |
 | Lua      | [License](https://www.lua.org/images/) | https://www.lua.org/images/ |
 | Node.js  | [#5](https://github.com/justjavac/badge-store/issues/5) | https://nodejs.org/static/documents/trademark-policy.pdf |
+| Kotlin   | [#3](https://github.com/justjavac/badge-store/issues/3) | https://github.com/JetBrains/logos/tree/master/web/kotlin |
 
 ### 前端框架
 
@@ -42,6 +43,13 @@
 | -------- | ------------- | -------- |
 | CodeIgniter | [MIT](https://codeigniter.com/userguide3/license.html) | https://github.com/bcit-ci/ci-design/tree/master/media |
 | Laravel     | ??? | https://github.com/laravel/art |
+
+### Java 框架
+
+| Name     | License       | 参考链接  |
+| -------- | ------------- | -------- |
+| Spring   | ???|https://spring.io/trademarks|
+| Vert.x   | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)|https://commons.wikimedia.org/wiki/File:Vert.x_Logo.svg|
 
 ### 编辑器和 IDE
 
