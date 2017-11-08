@@ -45,6 +45,7 @@
 | Laravel     | ??? | https://github.com/laravel/art |
 | Yii         | [CC BY-ND 3.0](http://creativecommons.org/licenses/by-nd/3.0/) [#7](https://github.com/justjavac/badge-store/issues/7) | http://www.yiiframework.com/logo/ |
 | Symfony     | [#8](https://github.com/justjavac/badge-store/issues/8) | http://symfony.com/logo |
+| WordPress   | [Trademark Policy](http://wordpressfoundation.org/trademark-policy/) [#9](https://github.com/justjavac/badge-store/issues/9)  | https://wordpress.org/about/logos/ |
 
 ### 编辑器和 IDE
 
