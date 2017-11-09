@@ -17,6 +17,7 @@
 | Docker   | [#4](https://github.com/justjavac/badge-store/issues/4) | https://www.docker.com/brand-guidelines |
 | Linux    | Larry Ewing | https://www.linuxmark.org/ |
 | Ubuntu   | [trademark policy](https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy) | https://design.ubuntu.com/brand/ubuntu-logo/ |
+| GNU      | [Free Art License](https://directory.fsf.org/wiki/License:Free-Art-L-v1.3) | https://www.gnu.org/graphics/gnusvgart.html |
 
 ### 编程语言
 
