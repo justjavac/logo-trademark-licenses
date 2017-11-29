@@ -63,3 +63,9 @@
 | -------- | ------------- | -------- |
 | Eclipse  | [#1](https://github.com/justjavac/badge-store/issues/1) | http://www.eclipse.org/artwork/ |
 | JetBrains| [#3](https://github.com/justjavac/badge-store/issues/3) | https://github.com/JetBrains/logos |
+
+### 其它
+
+| Name     | License       | 参考链接  |
+| -------- | ------------- | -------- |
+| awesome  | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | https://github.com/sindresorhus/awesome/tree/master/media |
