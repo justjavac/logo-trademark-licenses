@@ -41,6 +41,7 @@
 | Redux-Saga    | [CC0](https://github.com/redux-saga/redux-saga/blob/master/LICENSE-logo.md) | https://github.com/redux-saga/redux-saga/tree/master/logo |
 | Vue      | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://github.com/vuejs/art/blob/master/README.md |
 | Webpack  | [#2](https://github.com/justjavac/badge-store/issues/2) | https://github.com/webpack/media |
+| Bower    | [#11](https://github.com/justjavac/badge-store/issues/11) | https://bower.io/docs/about/#brand |
 | HTML5    | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://www.w3.org/html/logo/ |
 
 ### PHP 框架
