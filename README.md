@@ -12,7 +12,8 @@
 
 | Name     | License       | 参考链接  |
 | -------- | ------------- | -------- |
-| Git      | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://git-scm.com/downloads/logos | 
+| Git      | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://git-scm.com/downloads/logos | 
+| GitLab   | [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) 非商业使用 | https://gitlab.com/gitlab-com/gitlab-artwork/tree/master/ |
 | Redis    | ??? | https://redis.io/topics/sponsors#redisio |
 | MongoDB  | 不能使用 | https://www.mongodb.com/legal/trademark-usage-guidelines |
 | Android robot | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://developer.android.com/distribute/marketing-tools/brand-guidelines.html |
