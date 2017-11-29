@@ -23,6 +23,7 @@
 | Ubuntu   | [trademark policy](https://www.ubuntu.com/legal/terms-and-policies/intellectual-property-policy) | https://design.ubuntu.com/brand/ubuntu-logo/ |
 | GNU      | [Free Art License](https://directory.fsf.org/wiki/License:Free-Art-L-v1.3) | https://www.gnu.org/graphics/gnusvgart.html |
 | FireFox  | [CC-BY 3.0](https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/) | https://www.mozilla.org/en-US/styleguide/identity/firefox/branding/ |
+| Yeoman   | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://github.com/yeoman/media |
 
 ### 编程语言
 
