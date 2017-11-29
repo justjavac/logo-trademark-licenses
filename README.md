@@ -46,6 +46,7 @@
 | React    | ??? | ??? |
 | Redux    | [CC0](https://github.com/reactjs/redux/blob/master/LICENSE-logo.md) | https://github.com/reactjs/redux/tree/master/logo |
 | Redux-Saga    | [CC0](https://github.com/redux-saga/redux-saga/blob/master/LICENSE-logo.md) | https://github.com/redux-saga/redux-saga/tree/master/logo |
+| Sass     | [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/) | http://sass-lang.com/styleguide/brand |
 | Vue      | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://github.com/vuejs/art/blob/master/README.md |
 | Webpack  | [#2](https://github.com/justjavac/badge-store/issues/2) | https://github.com/webpack/media |
 | Bower    | [#11](https://github.com/justjavac/badge-store/issues/11) | https://bower.io/docs/about/#brand |
