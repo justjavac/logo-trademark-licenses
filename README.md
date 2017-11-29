@@ -39,6 +39,7 @@
 | Angular  | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | https://angular.io/presskit |
 | Babel    | [MIT](https://github.com/babel/logo/blob/master/LICENSE)  | https://github.com/babel/logo/blob/master/LICENSE |
 | Bootstrap| [#12](https://github.com/justjavac/logo-trademark-licenses/issues/12)  | https://getbootstrap.com/docs/3.3/about/#brand |
+| HTML5    | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | https://www.w3.org/html/logo/  |
 | React    | ??? | ??? |
 | Redux    | [CC0](https://github.com/reactjs/redux/blob/master/LICENSE-logo.md) | https://github.com/reactjs/redux/tree/master/logo |
 | Redux-Saga    | [CC0](https://github.com/redux-saga/redux-saga/blob/master/LICENSE-logo.md) | https://github.com/redux-saga/redux-saga/tree/master/logo |
