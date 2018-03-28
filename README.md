@@ -2,7 +2,7 @@
 
 第一批 10 个徽章已经制作完成 [#15](https://github.com/justjavac/logo-trademark-licenses/issues/15)
 
-如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。如果不确定是否可以商用，可以提 [issue](https://github.com/justjavac/logo-trademark-licenses/issues/new) 讨论或者进入 QQ 群交流：[206944297](https://jq.qq.com/?_wv=1027&k=5X3l1CD)
+如果需要申请徽章，可以直接 fork 本项目，然后发 Pull Request，并注明开源 logo 的 license。如果不确定是否可以商用，可以提 [issue](https://github.com/justjavac/logo-trademark-licenses/issues/new) 讨论
 
 ## License
 
